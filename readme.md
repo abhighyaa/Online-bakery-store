@@ -16,7 +16,7 @@ Start the Apache and MySQL from xampp control panel.
 
 On command line, direct to the online-bakery-store using cd command and run the following command:
   
-  php artisan serve
+    php artisan serve
            
            
 # Prerequisites
