@@ -1,27 +1,31 @@
-# Laravel PHP Framework
+# Online Bakery Store
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+This allows users to check and purchase various bakery products available online.User can add the selected items it to his shopping cart.User needs to register on the site before checking out.He can then login using same id password next time.Now he may pay through a Stripe.In addition, SQL serves as a backend to store bakery products lists data.Thus, the online Bakery shopping project brings an entire bakery shop online, making it easy for both buyer and seller.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+# Built with
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+1. Bootstrap
+2. Laravel
 
-## Official Documentation
+## Getting Started 
+   # Prerequisites
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+      1. Laravel PHP framework
+      2. Editor
 
-## Contributing
+    # Installing Laravel
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+       Install [composer](https://getcomposer.org/).
+       Issue the Composer create-project command in your terminal:
+            composer create-project laravel/laravel {directory} 4.2 --prefer-dist
 
-## Security Vulnerabilities
+     # Server Requirements
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+        1. PHP >= 5.4
+        2. MCrypt PHP Extension
+        
+        Download the repository. Copy it to C: -> xampp -> htdocs.
+        Start the Apache and MySQL from xampp control panel.
+        On command line, direct to the online-bakery-store using cd command and run the following command:
+              php artisan serve
+  
