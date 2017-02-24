@@ -7,7 +7,15 @@ This allows users to check and purchase various bakery products available online
 1. Bootstrap
 2. Laravel
 
-## Getting Started 
+# Getting Started 
+
+  
+Download the repository. Copy it to C: -> xampp -> htdocs.
+Start the Apache and MySQL from xampp control panel.
+On command line, direct to the online-bakery-store using cd command and run the following command:
+           php artisan serve
+           
+           
 # Prerequisites
 1. Laravel PHP framework
 2. Editor
@@ -22,9 +30,5 @@ This allows users to check and purchase various bakery products available online
 
    1. PHP >= 5.4
    2. MCrypt PHP Extension
-        
-Download the repository. Copy it to C: -> xampp -> htdocs.
-Start the Apache and MySQL from xampp control panel.
-On command line, direct to the online-bakery-store using cd command and run the following command:
-           php artisan serve
+      
   
