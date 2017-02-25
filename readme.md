@@ -8,6 +8,24 @@ It begins with the homepage.
 To make any orders, user needs to login first.
 ![login](https://github.com/Abhighyaa/Online-bakery-store/blob/master/login.PNG)
 
+If user doesn't has an account, user can register too.
+![register](https://github.com/Abhighyaa/Online-bakery-store/blob/master/register.PNG)
+
+Now after signing up or signing in, User can place orders of general cakes of bakery aswell personalized cakes.
+![customcake](https://github.com/Abhighyaa/Online-bakery-store/blob/master/customcake.PNG)
+
+User can view the cart.
+![order](https://github.com/Abhighyaa/Online-bakery-store/blob/master/orders.PNG)
+
+They can reduce the quantity by one or all by clicking on coresponding options. User can lso checkout by clicking on checkout.
+![checkout](https://github.com/Abhighyaa/Online-bakery-store/blob/master/checkout.PNG)
+
+After buying and getting charged, when user returns to hme page, they get a success message and order badge reduced back to null.
+![successful](https://github.com/Abhighyaa/Online-bakery-store/blob/master/successful_purchased_and_orderbadge_turned_to_null.PNG)
+
+User can also view all their prevous orders made.
+![profile](https://github.com/Abhighyaa/Online-bakery-store/blob/master/profile.PNG)
+
 # Built with
 
 1. Bootstrap
