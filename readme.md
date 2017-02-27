@@ -3,28 +3,28 @@
 This allows users to check and purchase various bakery products available online.User can add the selected items it to his shopping cart.User needs to register on the site before checking out.He can then login using same id password next time.Now he may pay through a Stripe.In addition, SQL serves as a backend to store bakery products lists data.Thus, the online Bakery shopping project brings an entire bakery shop online, making it easy for both buyer and seller.
 
 It begins with the homepage.
-![homepage](https://github.com/Abhighyaa/Online-bakery-store/blob/master/homepage.PNG)
+![homepage](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/homepage.PNG)
 
 To make any orders, user needs to login first.
-![login](https://github.com/Abhighyaa/Online-bakery-store/blob/master/login.PNG)
+![login](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/login.PNG)
 
 If user doesn't has an account, user can register too.
-![register](https://github.com/Abhighyaa/Online-bakery-store/blob/master/register.PNG)
+![register](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/register.PNG)
 
 Now after signing up or signing in, User can place orders of general cakes of bakery aswell personalized cakes.
-![customcake](https://github.com/Abhighyaa/Online-bakery-store/blob/master/customcake.PNG)
+![customcake](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/customcake.PNG)
 
 User can view the cart.
-![order](https://github.com/Abhighyaa/Online-bakery-store/blob/master/orders.PNG)
+![order](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/orders.PNG)
 
 They can reduce the quantity by one or all by clicking on coresponding options. User can lso checkout by clicking on checkout.
-![checkout](https://github.com/Abhighyaa/Online-bakery-store/blob/master/checkout.PNG)
+![checkout](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/checkout.PNG)
 
 After buying and getting charged, when user returns to hme page, they get a success message and order badge reduced back to null.
-![successful](https://github.com/Abhighyaa/Online-bakery-store/blob/master/successful_purchased_and_orderbadge_turned_to_null.PNG)
+![successful](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/successful_purchased_and_orderbadge_turned_to_null.PNG)
 
 User can also view all their prevous orders made.
-![profile](https://github.com/Abhighyaa/Online-bakery-store/blob/master/profile.PNG)
+![profile](https://raw.githubusercontent.com/Abhighyaa/Online-bakery-store/master/profile.PNG)
 
 # Built with
 
